@@ -1,8 +1,0 @@
-/enchant @p minecraft:blast_protection 4
-/summon minecraft:tnt
-/summon minecraft:tnt ~ ~ ~ {Fuse:0}
-/summon minecraft:tnt ~ ~ ~ {Fuse:1}
-/summon minecraft:breeze
-/summon minecraft:tnt
-/summon minecraft:breeze
-/enchant @p minecraft:wind_burst 3
