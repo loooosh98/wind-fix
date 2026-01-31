@@ -1,0 +1,29 @@
+{
+  "stats": {
+    "minecraft:picked_up": {
+      "minecraft:carrot": 1,
+      "minecraft:dirt": 53
+    },
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 5113,
+      "minecraft:time_since_rest": 90,
+      "minecraft:fall_one_cm": 1104,
+      "minecraft:walk_one_cm": 454,
+      "minecraft:total_world_time": 48290,
+      "minecraft:fly_one_cm": 12471,
+      "minecraft:damage_taken": 819,
+      "minecraft:play_time": 4788,
+      "minecraft:deaths": 1,
+      "minecraft:jump": 50,
+      "minecraft:time_since_death": 55
+    },
+    "minecraft:used": {
+      "minecraft:netherite_helmet": 2,
+      "minecraft:wind_charge": 19,
+      "minecraft:netherite_boots": 2,
+      "minecraft:netherite_leggings": 2,
+      "minecraft:netherite_chestplate": 2
+    }
+  },
+  "DataVersion": 4671
+}

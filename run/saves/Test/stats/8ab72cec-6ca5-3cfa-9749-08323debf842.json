@@ -1,0 +1,41 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:wind_charge": 3,
+      "minecraft:netherite_chestplate": 2,
+      "minecraft:enchanted_golden_apple": 2,
+      "minecraft:dirt": 10,
+      "minecraft:mace": 15
+    },
+    "minecraft:custom": {
+      "minecraft:damage_resisted": 43,
+      "minecraft:time_since_rest": 5218,
+      "minecraft:walk_one_cm": 1984,
+      "minecraft:mob_kills": 13,
+      "minecraft:damage_taken": 105,
+      "minecraft:damage_dealt": 2341,
+      "minecraft:play_time": 5218,
+      "minecraft:damage_absorbed": 155,
+      "minecraft:jump": 70,
+      "minecraft:time_since_death": 5218,
+      "minecraft:sprint_one_cm": 7523,
+      "minecraft:fall_one_cm": 2796,
+      "minecraft:total_world_time": 5218,
+      "minecraft:fly_one_cm": 41122,
+      "minecraft:crouch_one_cm": 42,
+      "minecraft:sneak_time": 132
+    },
+    "minecraft:killed": {
+      "minecraft:zombie": 3,
+      "minecraft:skeleton": 2,
+      "minecraft:creeper": 4,
+      "minecraft:spider": 4
+    },
+    "minecraft:picked_up": {
+      "minecraft:dirt": 23,
+      "minecraft:gunpowder": 1,
+      "minecraft:rotten_flesh": 5
+    }
+  },
+  "DataVersion": 4671
+}

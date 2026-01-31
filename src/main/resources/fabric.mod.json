@@ -1,0 +1,30 @@
+{
+	"schemaVersion": 1,
+	"id": "windfix",
+	"version": "${version}",
+	"name": "Wind Fix",
+	"description": "A simple mod that makes wind charges and wind burst unaffected by explosion knockback resistance, like blast protection",
+	"authors": [
+		"CommanderT3706"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/windfix/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.commandert3706.WindFix"
+		]
+	},
+	"mixins": [
+		"windfix.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.18.4",
+		"minecraft": "~1.21.11",
+		"java": ">=21"
+	}
+}

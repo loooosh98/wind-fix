@@ -1,0 +1,37 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:netherite_helmet": 1,
+      "minecraft:wind_charge": 15,
+      "minecraft:netherite_boots": 1,
+      "minecraft:netherite_leggings": 1,
+      "minecraft:netherite_chestplate": 1
+    },
+    "minecraft:dropped": {
+      "minecraft:cornflower": 2,
+      "minecraft:azure_bluet": 1
+    },
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 6452,
+      "minecraft:time_since_rest": 58515,
+      "minecraft:fall_one_cm": 3293,
+      "minecraft:walk_one_cm": 774,
+      "minecraft:total_world_time": 62703,
+      "minecraft:leave_game": 1,
+      "minecraft:fly_one_cm": 10731,
+      "minecraft:damage_taken": 50,
+      "minecraft:play_time": 58515,
+      "minecraft:jump": 34,
+      "minecraft:time_since_death": 58515,
+      "minecraft:drop": 2
+    },
+    "minecraft:picked_up": {
+      "minecraft:oak_stairs": 1,
+      "minecraft:dirt": 98,
+      "minecraft:cornflower": 2,
+      "minecraft:azure_bluet": 1,
+      "minecraft:cobblestone_stairs": 1
+    }
+  },
+  "DataVersion": 4671
+}

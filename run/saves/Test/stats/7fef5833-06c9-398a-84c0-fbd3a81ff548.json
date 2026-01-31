@@ -1,0 +1,37 @@
+{
+  "stats": {
+    "minecraft:killed": {
+      "minecraft:slime": 20,
+      "minecraft:chicken": 48,
+      "minecraft:iron_golem": 1
+    },
+    "minecraft:dropped": {
+      "minecraft:slime_ball": 2
+    },
+    "minecraft:picked_up": {
+      "minecraft:slime_ball": 4
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 12753,
+      "minecraft:walk_one_cm": 1566,
+      "minecraft:mob_kills": 69,
+      "minecraft:play_time": 12753,
+      "minecraft:damage_dealt": 1610,
+      "minecraft:jump": 8,
+      "minecraft:time_since_death": 12753,
+      "minecraft:drop": 2,
+      "minecraft:sprint_one_cm": 832,
+      "minecraft:total_world_time": 12753,
+      "minecraft:fly_one_cm": 23321,
+      "minecraft:crouch_one_cm": 71,
+      "minecraft:sneak_time": 81
+    },
+    "minecraft:used": {
+      "minecraft:wind_charge": 2,
+      "minecraft:splash_potion": 4,
+      "minecraft:chicken_spawn_egg": 53,
+      "minecraft:mace": 20
+    }
+  },
+  "DataVersion": 4671
+}
