@@ -1,6 +1,5 @@
 package com.commandert3706.mixin;
 
-import com.commandert3706.WindFix;
 import net.minecraft.world.explosion.Explosion;
 import net.minecraft.world.explosion.ExplosionImpl;
 import org.spongepowered.asm.mixin.Debug;
