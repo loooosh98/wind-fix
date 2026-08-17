@@ -1,15 +1,8 @@
 package com.commandert3706;
 
-import net.fabricmc.api.ModInitializer;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
+import net.neoforged.fml.common.Mod;
 
-public class WindFix implements ModInitializer {
-    public static final String MOD_ID = "wind-charge-fix";
-    public static final Logger LOGGER = LoggerFactory.getLogger(MOD_ID);
-
-    @Override
-    public void onInitialize() {
-        LOGGER.info("Hello Fabric world!");
-    }
+@Mod(WindFix.MOD_ID)
+public class WindFix {
+    public static final String MOD_ID = "windfix";
 }

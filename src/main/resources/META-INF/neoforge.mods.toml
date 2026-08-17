@@ -1,0 +1,31 @@
+modLoader="javafml"
+loaderVersion="[1,)"
+license="MIT"
+
+[[mods]]
+modId="windfix"
+version="${version}"
+displayName="Wind Fix"
+authors="CommanderT3706"
+displayURL="https://github.com/CommanderT3706/wind-fix"
+logoFile="assets/windfix/icon.png"
+description='''
+A simple mod that makes wind charges and wind burst unaffected by explosion knockback resistance, like blast protection
+'''
+
+[[mixins]]
+config="windfix.mixins.json"
+
+[[dependencies.windfix]]
+modId="neoforge"
+type="required"
+versionRange="[21.1,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.windfix]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1]"
+ordering="NONE"
+side="BOTH"
